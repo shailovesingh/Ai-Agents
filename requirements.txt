@@ -591,7 +591,6 @@ tenacity==9.1.2
     # via
     #   langchain-community
     #   langchain-core
-tiktoken
     # via
     #   autogen-ext
     #   langchain-openai
@@ -688,3 +687,5 @@ zipp==3.23.0
     # via importlib-metadata
 zstandard==0.23.0
     # via langsmith
+
+crewai
